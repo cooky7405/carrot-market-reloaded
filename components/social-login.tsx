@@ -17,7 +17,7 @@ export default function SocialLogin() {
         </Link>
         <Link
           className="primary-btn flex h-10 itmes-center justify-center gap-3"
-          href="/sms"
+          href="/github/start"
         >
           <svg
             className="size-6"
